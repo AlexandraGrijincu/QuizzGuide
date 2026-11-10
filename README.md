@@ -1,2 +1,3 @@
 # QuizzGuide
-proiect TW
+Membrii: Hutopila Gianina-Brîndusa, Grijincu Alexandra-Ștefania
+
