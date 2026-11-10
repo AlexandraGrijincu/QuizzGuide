@@ -40,3 +40,11 @@ Backend: Spring Boot
 Frontend: HTML, CSS, JavaScript
 
 Bază de date: PostgreSQL
+
+# Documentație
+- [Cerințele funcționale](docs/requirements.md)
+- [Scenarii de utilizare](docs/use-cases.md)
+- [Wireframe](docs/wireframes/)
+- [Diagrama și descrierea arhitecturii aplicației](docs/architecture.md)
+- [Modelul preliminar de date](docs/data-model.md)
+- [Justificarea tehnologiilor, strategia de versionare, planul de implementare](docs/implementation-plan.md)
